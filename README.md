@@ -1,5 +1,7 @@
 # Background Color Changer
 
+[![Screenshot](assets/images/project-screenshot.png)](https://codenaud.github.io/backgroundColorChanger/)
+
 ## Description
 Background Color Changer is a JavaScript project that allows users to dynamically change the background color of a webpage by clicking a button. The project provides a simple and intuitive interface where users can experience the fun of random color generation.
 
@@ -7,18 +9,15 @@ The main functionality of Background Color Changer is based on JavaScript. Upon 
 
 This project is designed to showcase the capabilities of JavaScript in manipulating the DOM and dynamically updating webpage elements. It serves as a fun and interactive way to explore the possibilities of color customization on a website.
 
+## Demo
+
+You can see a live demo of this project [here](https://codenaud.github.io/backgroundColorChanger/).
+
+
 ## Features
 - Random generation of background colors
 - Instantaneous update of the background color upon button click
 - Display of the generated color code as text for reference
-
-## Screenshots
-
-Screenshots of one random color
-
-    ScreenShots
-
-![RandomColors](assets/screenshots/random-screenshot.jpg)
 
 ## Usage
 1. Open the webpage in a web browser.
